@@ -13,7 +13,7 @@
 ## 2、计算SSH密码
 https://miwifi.dev/ssh 输入路由器的SN码，在路由器后台可以查询SN码。
 
-用putty软件登录路由器，<a href="https://github.com/eujc/AX3000T/releases/download/gongju/AX3000T.zip" target="_blank">点击下载>></a>
+用putty软件登录路由器，<a href="https://github.com/uyez/AX3000T/releases/download/rom/AX3000T.zip" target="_blank">点击下载>></a>
 
 用户名是：root，密码是上一步计算出来的，提示 Are U OK 表示已经登录成功。
 
